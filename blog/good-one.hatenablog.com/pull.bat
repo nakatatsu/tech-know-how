@@ -1,0 +1,1 @@
+blogsync pull good-one.hatenablog.com
