@@ -3,7 +3,9 @@ Title: WindowsでTerraformerを利用する
 Category:
 - terraformer
 - Terraform
-Date: 2022-10-05T15:06:27+09:00
+Date: 2022-10-05T17:31:26+09:00
+URL: https://blog.tricrow.com/entry/terraform/terraformer
+EditURL: https://blog.hatena.ne.jp/good-one/good-one.hatenablog.com/atom/entry/4207112889924766315
 ---
 
 自サイト用のインフラをTerraform管理に移行するにあたり、まず既存のリソースをコード化する必要があった。
