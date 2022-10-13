@@ -1,0 +1,1 @@
+blogsync push %1
