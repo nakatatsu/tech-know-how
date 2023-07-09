@@ -1,1 +1,1 @@
-C:\Users\zento\AppData\Local\Programs\Python\Python310\python.exe post.py %1
+C:\Users\zento\AppData\Local\Programs\Python\Python311\python.exe post.py %1
